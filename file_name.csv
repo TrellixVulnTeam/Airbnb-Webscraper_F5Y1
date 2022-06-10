@@ -1,21 +1,60 @@
 ,Property Name,Total Cost,Location
-0,Apartment in Downtown Seattle,Seattle,"$1,052 total"
-1,Townhouse in Capitol Hill,Seattle,$971 total
-2,Townhouse in Capitol Hill 2,Seattle,"$1,113 total"
-3,Guest suite in Central District,Seattle,$685 total
-4,Guest suite in Central District 4,Seattle,$731 total
-5,Townhouse in Capitol Hill 5,Seattle,"$1,109 total"
-6,Bungalow in Central District,Seattle,$967 total
-7,Home in Columbia City,Seattle,$996 total
-8,Apartment in Queen Anne,Seattle,"$1,236 total"
-9,Home in Central District,Seattle,$593 total
-10,Townhouse in Capitol Hill 10,Seattle,"$1,131 total"
-11,Townhouse in Central District,Seattle,"$1,028 total"
-12,Cabin in West Seattle,Seattle,$771 total
-13,Condo in Downtown Seattle,Seattle,"$1,119 total"
-14,Hotel room in Downtown Seattle,Seattle,$672 total
-15,Apartment in Downtown Seattle 15,Seattle,$698 total
-16,Loft in Downtown Seattle,Seattle,$921 total
-17,Home in West Seattle,Seattle,"$1,075 total"
-18,Guest suite in Seattle,Seattle,$561 total
-19,Loft in Downtown Seattle 19,Seattle,$887 total
+0,Home in Hartland,Maine,"$1,163 total"
+1,Cottage in New Gloucester,Maine,$799 total
+2,Condo in Southwest Harbor,Maine,"$1,159 total"
+3,Home in Falmouth,Maine,$979 total
+4,Cabin in Windham,Maine,$968 total
+5,Home in Bridgton,Maine,"$1,286 total"
+6,Cabin in Fryeburg,Maine,"$1,252 total"
+7,Cabin in Harpswell,Maine,$779 total
+8,Home in Greene,Maine,$784 total
+9,Cottage in Boothbay,Maine,"$1,078 total"
+10,Home in Biddeford,Maine,"$1,083 total"
+11,Home in Scarborough,Maine,$944 total
+12,Home in Old Orchard Beach,Maine,"$1,036 total"
+13,Cottage in Old Orchard Beach,Maine,$685 total
+14,Apartment in Old Orchard Beach,Maine,$797 total
+15,Home in Bridgton 15,Maine,$797 total
+16,Home in Bethel,Maine,$991 total
+17,Hotel room in Old Orchard Beach,Maine,$818 total
+18,Cabin in Millinocket,Maine,$930 total
+19,Cabin in Andover,Maine,"$1,041 total"
+20,Bungalow in Central District,Seattle,$896 total
+21,Home in Columbia City,Seattle,$996 total
+22,Apartment in Downtown Seattle,Seattle,"$1,151 total"
+23,Apartment in Queen Anne,Seattle,"$1,236 total"
+24,Townhouse in Central District,Seattle,"$1,028 total"
+25,Townhouse in Capitol Hill,Seattle,"$1,131 total"
+26,Townhouse in Capitol Hill 26,Seattle,"$1,109 total"
+27,Home in West Seattle,Seattle,$957 total
+28,Cabin in West Seattle,Seattle,$761 total
+29,Loft in Downtown Seattle,Seattle,$838 total
+30,Condo in Downtown Seattle,Seattle,"$1,119 total"
+31,Apartment in Downtown Seattle 31,Seattle,$651 total
+32,Hotel room in Downtown Seattle,Seattle,$672 total
+33,Loft in Downtown Seattle 33,Seattle,$887 total
+34,Condo in Downtown Seattle 34,Seattle,"$1,308 total"
+35,Apartment in Downtown Seattle 35,Seattle,"$1,513 total"
+36,Townhouse in Central District 36,Seattle,"$1,398 total"
+37,Townhouse in Seattle,Seattle,"$1,390 total"
+38,Townhouse in Central District 38,Seattle,"$1,453 total"
+39,Home in Conway,New Hampshire,"$1,000 total"
+40,Townhouse in Lincoln,New Hampshire,$852 total
+41,Condo in Woodstock,New Hampshire,$750 total
+42,Home in Conway 42,New Hampshire,$988 total
+43,Townhouse in Conway,New Hampshire,"$1,056 total"
+44,Townhouse in Woodstock,New Hampshire,$744 total
+45,Home in North Conway,New Hampshire,"$1,028 total"
+46,Condo in Lincoln,New Hampshire,$394 total
+47,Condo in Lincoln 47,New Hampshire,$766 total
+48,Home in Conway 48,New Hampshire,$822 total
+49,Townhouse in Lincoln 49,New Hampshire,$722 total
+50,Condo in Lincoln 50,New Hampshire,$745 total
+51,Home in Conway 51,New Hampshire,$685 total
+52,Cabin in Thornton,New Hampshire,$794 total
+53,Townhouse in Conway 53,New Hampshire,$770 total
+54,Home in Madison,New Hampshire,"$1,119 total"
+55,Townhouse in Intervale,New Hampshire,$679 total
+56,Condo in Intervale,New Hampshire,$624 total
+57,Condo in Woodstock 57,New Hampshire,$907 total
+58,Townhouse in Woodstock 58,New Hampshire,$824 total
